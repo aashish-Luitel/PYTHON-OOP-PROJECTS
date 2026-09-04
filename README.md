@@ -11,7 +11,7 @@ A simple Python **Object-Oriented Programming (OOP)** program that demonstrates:
 
 The program creates student objects with their **name, age, and grade**, and displays their information using the `__str__()` method.
 
-The complete code is available in [studentmanagement.py]studentmanagement.py).
+The complete code is available in [studentmanagement.py](studentmanagement.py).
 
 
 ## Output
